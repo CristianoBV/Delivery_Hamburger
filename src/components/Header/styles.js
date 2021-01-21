@@ -63,4 +63,8 @@ export const Btn = styled.button`
     transition: 0.2s ease-out;
     cursor: pointer;
   }
+
+  /* @media screen and (max-width: 650px) {
+    padding: 1rem 2rem;
+  } */
 `;
