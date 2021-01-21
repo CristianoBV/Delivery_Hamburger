@@ -1,0 +1,27 @@
+:root {
+    --color-primary: #f5426c;
+    --color-secondary: #e9ba23;
+    --color-login: #686868;
+    --color-togle: #686868;
+    --color-border-icon: rgba(104, 104, 104, 0.4);
+    --color-text-menu: #aeb6c1;
+    --color-complement3: #a9095e;
+    --color-complement4: #2a5a75;
+    --color-black: #000;
+    --color-white: #fff;
+    --color-sucess: #32917b;
+    --color-gray: #f2f2f2;
+    --color-gray-dark: #ebebeb;
+    --color-gray-light: #e3e3e3;
+    --color-border: #cccccc;
+    --color-gray-complement1: #adadad;
+    --color-gray-complement2: #7f7f7f;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: "Kanit", sans-serif;
+}
