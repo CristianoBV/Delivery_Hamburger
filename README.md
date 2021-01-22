@@ -23,6 +23,7 @@ Projeto desenvolvido com Reactjs.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="DeliveryBurger" title="#DeliveryBurger" src="./screen/web.png" width="800px">
+  <img alt="DeliveryBurger" title="#DeliveryBurger" src="./screen/web1.png" width="800px">
 </p>
 
 ## 🛠 Tecnologias

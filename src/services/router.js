@@ -1,6 +1,7 @@
 export const router = [
-  { title: "SAPATOS", link: "/" },
-  { title: "BOLSAS", link: "/" },
-  { title: "ACESSÓRIOS", link: "/" },
-  { title: "OFF", link: "/" },
+  { title: "XIS", link: "/" },
+  { title: "BAURUS", link: "/" },
+  { title: "DOGS", link: "/" },
+  { title: "TORRADAS", link: "/" },
+  { title: "PROÇÕES", link: "/" },
 ];

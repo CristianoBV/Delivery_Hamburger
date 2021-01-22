@@ -3,14 +3,14 @@ import Logo from "../../assets/logo.png";
 
 import { Nav, NavLink, NavIcon, Bars } from "./styles";
 
-const NarBar = () => {
+const NarBar = ({ toggle }) => {
   return (
     <>
       <Nav>
         <NavLink to="/home">
           <img src={Logo} alt="Logo" />
         </NavLink>
-        <NavIcon>
+        <NavIcon onClick={toggle}>
           <p>Menu</p>
           <Bars />
         </NavIcon>
