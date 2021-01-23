@@ -30,7 +30,8 @@ Projeto desenvolvido com Reactjs.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React][redux]
+- [React][react]
+- [Redux][redux]
 
 ## ⚡️ Como executar o projeto
 
