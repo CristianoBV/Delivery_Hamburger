@@ -30,7 +30,7 @@ Projeto desenvolvido com Reactjs.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js][nodejs]
+- [React][redux]
 
 ## ⚡️ Como executar o projeto
 
@@ -65,6 +65,7 @@ Este projeto esta sobe a licença.
 Feito com ❤️ por cristiano Borges 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cristianobv/)
 
 [reactjs]: https://reactjs.org
+[redux]: https://redux.js.org/
 [yarn]: https://yarnpkg.com/
 [vscode]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
