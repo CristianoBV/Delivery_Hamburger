@@ -41,7 +41,7 @@ export const INITIAL_STATE = {
     {
       img: product4,
       alt: "BAURU",
-      name: "BAURU DE FILÉ MINGNON",
+      name: "BAURU DE FILÉ",
       desc:
         "Pão de xis, coração, frango, lombo, patinho, calabresa, pimentão verde/amarelo/vermelho, tomate, cebola c/ shoyo, queijo lanche, maionese Moita e ovo.",
       price: "R$ 22,00",
@@ -50,7 +50,7 @@ export const INITIAL_STATE = {
     {
       img: product5,
       alt: "BAURU ",
-      name: "BAURU DE FILÉ MINGNON",
+      name: "BAURU DE FILÉ",
       desc:
         "Pão de xis, coração, frango, lombo, patinho, calabresa, pimentão verde/amarelo/vermelho, tomate, cebola c/ shoyo, queijo lanche, maionese Moita e ovo.",
       price: "R$ 29,00",
