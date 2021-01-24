@@ -16,7 +16,7 @@ Projeto desenvolvido com Reactjs.
 ### Mobile
 
 <p align="center">
-  <img alt="DeliveryBurger" title="#DeliveryBurger" src="./screen/mobile.png" width="400px">
+  <img alt="DeliveryBurger" title="#DeliveryBurger" src="./screen/mobile.png" width="300px">
 </p>
 
 ### Web
