@@ -33,12 +33,12 @@ export const SocialMediaWrap = styled.div`
 `;
 
 export const SocialLogo = styled(Link)`
-  color: var(--color-white);
-  font-size: 2rem;
+  justify-self: start;
+  cursor: pointer;
+  text-decoration: none;
   display: flex;
   align-items: center;
-  text-decoration: none;
-  cursor: pointer;
+  margin-bottom: 16px;
 
   > img {
     display: flex;
@@ -46,17 +46,6 @@ export const SocialLogo = styled(Link)`
     /* top: 25px; */
     width: 90px;
     object-fit: cover;
-  }
-
-  @media screen and (max-width: 400px) {
-    position: absolute;
-    top: 10px;
-    left: 25px;
-
-    > img {
-      top: 0;
-      width: 50px !important;
-    }
   }
 `;
 
