@@ -1,7 +1,7 @@
 import React from "react";
-import { FaPhoneVolume } from "react-icons/fa";
-
 import { useSelector } from "react-redux";
+
+import { FaPhoneVolume } from "react-icons/fa";
 
 import {
   Container,

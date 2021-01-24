@@ -2,8 +2,8 @@
     <img alt="DeliveryBurger" title="#DeliveryBurger" src="./screen/web.png" />
 </h1>
 
-<h4 align="center"> 
- ⚡️ DeliveryBurger ⚡️ Desenvolvendo...
+<h4 align="center">
+ ⚡️ DeliveryBurger ⚡️ Concluido...
 </h4>
 
 ## 💻 Sobre o projeto

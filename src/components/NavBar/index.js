@@ -3,7 +3,7 @@ import Logo from "../../assets/logo.png";
 
 import { Nav, NavLink, NavIcon, Bars } from "./styles";
 
-const NarBar = ({ toggle }) => {
+const NavBar = ({ toggle }) => {
   return (
     <>
       <Nav>
@@ -19,4 +19,4 @@ const NarBar = ({ toggle }) => {
   );
 };
 
-export default NarBar;
+export default NavBar;

@@ -1,6 +1,5 @@
-import styled from "styled-components";
-import { Link } from "react-router-dom";
-import { FaTimes } from "react-icons/fa";
+import styled, { keyframes } from "styled-components";
+
 import { darken, shade } from "polished";
 
 export const Container = styled.div`
@@ -29,15 +28,24 @@ export const Heading = styled.h1`
 export const ProductCard = styled.div`
   margin: 0 2rem;
   line-height: 2;
-  width: 350px;
+  width: 320px;
 `;
 
 export const ProductImg = styled.img`
   height: 300px;
-  min-width: 300px;
+  min-width: 200px;
   max-width: 100%;
   box-shadow: 8px 8px var(--color-secondary);
   object-fit: cover;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+
+  &:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
 `;
 
 export const ProductInfo = styled.div`

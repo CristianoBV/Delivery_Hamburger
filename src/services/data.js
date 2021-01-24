@@ -5,6 +5,10 @@ import product4 from "../assets/product4.jpg";
 import product5 from "../assets/product5.jpg";
 import product6 from "../assets/product6.jpg";
 
+import torta01 from "../assets/torta01.jpg";
+import torta02 from "../assets/torta02.jpg";
+import torta03 from "../assets/torta03.jpg";
+
 export const INITIAL_STATE = {
   data: [
     {
@@ -63,3 +67,30 @@ export const INITIAL_STATE = {
     },
   ],
 };
+
+export const productData = [
+  {
+    img: torta01,
+    alt: "Torta ",
+    name: "Torta",
+    desc: "Lorem Ipsum has been the industry's standard dummy",
+    price: "R$ 15,00",
+    button: "Comprar",
+  },
+  {
+    img: torta02,
+    alt: "Torta ",
+    name: "Torta",
+    desc: "Lorem Ipsum has been the industry's standard dummy",
+    price: "R$ 15,00",
+    button: "Comprar",
+  },
+  {
+    img: torta03,
+    alt: "Torta ",
+    name: "Torta",
+    desc: "Lorem Ipsum has been the industry's standard dummy",
+    price: "R$ 15,00",
+    button: "Comprar",
+  },
+];
